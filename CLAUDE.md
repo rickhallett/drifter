@@ -1,6 +1,6 @@
 # drifter
 
-> One paragraph: what this project does and why it exists.
+> **Drift detection for personal systems.** Compares stated priorities (intentions, goals, plans) against actual activity (commits, time spent, memory logs) to flag misalignment between what you say matters and what you actually do. CLI + LLM hybrid approach, integrating with memory files and Gastown for continuous self-accountability.
 
 ---
 
